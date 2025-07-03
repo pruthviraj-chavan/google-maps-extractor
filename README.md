@@ -1,7 +1,7 @@
 ![Google Maps Extractor Feautred Image](https://raw.githubusercontent.com/omkarcloud/google-maps-scraper/master/screenshots/google-maps-scraper-feautred-image.png)
 
 <div align="center" style="margin-top: 0;">
-  <h1>✨ Google Maps Scraper 🤖</h1>
+  <h1>✨ Google Maps Scraper by me🤖</h1>
 </div>
 <em>
   <h5 align="center">(Programming Language - Python 3)</h5>
